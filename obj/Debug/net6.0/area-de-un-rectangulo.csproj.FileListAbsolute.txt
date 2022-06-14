@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\bin\Debug\net6.0\area-de-un-rectangulo.exe
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\bin\Debug\net6.0\area-de-un-rectangulo.deps.json
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\bin\Debug\net6.0\area-de-un-rectangulo.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\bin\Debug\net6.0\area-de-un-rectangulo.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\bin\Debug\net6.0\area-de-un-rectangulo.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\area-de-un-rectangulo.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\area-de-un-rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\area-de-un-rectangulo.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\area-de-un-rectangulo.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\area-de-un-rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\area-de-un-rectangulo.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\refint\area-de-un-rectangulo.dll
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\area-de-un-rectangulo.pdb
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\area-de-un-rectangulo.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\Tareas\Area de un rectangulo en C#\area-de-un-rectangulo\obj\Debug\net6.0\ref\area-de-un-rectangulo.dll
